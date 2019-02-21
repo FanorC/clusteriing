@@ -1,3 +1,0 @@
-make_line( make_point( $x,$y), make_point( "X","Y"))
-'Lugar: ' || "NAME_1"   ||  '\n'  || 'RH: ' ||  "dataSN_VOL"  ||  '\n'  ||  'Disponibilidad: '  || "dataSN_REC"  ||  '\n'  ||  'P. focal: '  ||  "dataSN_PUN"   
-atención prehospitalaria
